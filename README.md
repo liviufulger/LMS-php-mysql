@@ -33,21 +33,11 @@ ByteFury is a web-based learning management system that provides a platform for 
 
 ## Tech Stack
 
-<<<<<<< HEAD
 ### Frontend
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
 - Responsive design using Flexbox
 - Custom UI components
-=======
-Tech Stack:
-Frontend:
-HTML5
-CSS3
-Responsive design using Flexbox
-Custom UI components
->>>>>>> c9a9b47c4bc03fb2132aed1c1583fc03679d742e
 
 ### Backend
 - PHP 8.1
