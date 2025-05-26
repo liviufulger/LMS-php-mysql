@@ -125,7 +125,6 @@ INSERT INTO `users` (`id`, `username`, `email`, `password`, `role`, `created_at`
 (1, 'mosakay', 'liviu05f@gmail.com', '$2y$10$tcPHRAefAcEr0.89cOSzZuKFLyWHd8kerUfGbUXApzEZXxaW16fpe', 'admin', '2024-10-23 08:10:10'),
 (2, 'test', 'test@test.ro', '$2y$10$.wFsvqPX5k7ehuP1iIPcMecnXJivtyXs34xqH3S5HfBE2RKpSMjoy', 'user', '2024-10-23 10:25:47'),
 (4, 'asdfg', 'asdf@asfg.com', '$2y$10$dra7Qj4.yWvxltEYcwmPReqeFCYykXCHGCZBnVRvSwoRZO3yn5Gsa', 'user', '2024-11-05 18:28:29'),
-(5, 'arden', 'arden@arden.ac.uk', '$2y$10$nLcXLwmLvmV/VdQZPIamJ.l.5YAGnjkUjBRESW1HzCZxZjkNoa/we', 'user', '2024-11-05 22:35:41');
 
 -- --------------------------------------------------------
 
