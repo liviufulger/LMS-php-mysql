@@ -35,7 +35,6 @@ Tech Stack:
 Frontend:
 HTML5
 CSS3
-JavaScript (Vanilla)
 Responsive design using Flexbox
 Custom UI components
 
